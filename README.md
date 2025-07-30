@@ -133,7 +133,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Chitra Pandey**. I’m an final year Computer Engineering student on a mission to learn everything about Computers!
+Hi there! I'm **Chitra Pandey**. I’m a final year Computer Engineering student on a mission to learn everything about Computers!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
